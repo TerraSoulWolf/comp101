@@ -1,6 +1,6 @@
-Computer Type:
-CPU:
-Memory:
-OS:
-HD:
-Display:
+Computer Type: iBUYPOWER Element
+CPU: Intel i5-14400F
+Memory: 32 GB
+OS: Microsoft Windows 11 Home
+HD: 2 TB
+Display: 2560x1440 & 1920x1080
