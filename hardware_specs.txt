@@ -1,0 +1,6 @@
+Computer Type:
+CPU:
+Memory:
+OS:
+HD:
+Display:
